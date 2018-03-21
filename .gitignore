@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+*.hdf5
+__pycache__
+*.csv
+!btc.csv
+!btc_20171226.csv
+.DS_store
+tmp/
+*.zip
+*.h5
